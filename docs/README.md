@@ -9,15 +9,10 @@
   <a href="https://github.com/febobo/web-interview/issues"><img src="https://img.shields.io/github/languages/top/badges/shields.svg?label=css" alt="css"></a>
   <a href="https://github.com/febobo/web-interview/issues"><img src="https://img.shields.io/github/languages/top/badges/shields.svg?label=javascript" alt="javascript"></a>
 </p>
+
+<h2>
 Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题，CSS面试题，算法面试题，大厂面试题，高频面试题
-<p>
-<img width="600px"  style="max-width:600px; width:600px;" src="https://user-images.githubusercontent.com/9276376/102876713-90c0f700-4480-11eb-880f-613f8f0f5042.png"/>
-</p>
-
-<p>
-  <img  width="200px" style="max-width:200px; width:200px; height: 200px" src="https://static.vue-js.com/b4b71a30-443b-11eb-85f6-6fac77c0c9b3.png"/>
-</p>
-
+</h2>
 
 <h3 style="text-align: center" align="center">Vue系列</h3>
 
@@ -300,20 +295,4 @@ Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题
 - [面试官：说说你对代理模式的理解？应用场景？](https://github.com/febobo/web-interview/issues/294)
 - [面试官：说说你对发布订阅、观察者模式的理解？区别？](https://github.com/febobo/web-interview/issues/295)
 
-## 👧 更多系列
 
-### 面试官手写系列/精选33道
-筹备中..
-### 面试官浏览器系列/精选33道
-筹备中..
-### 面试官前端构建系列/精选33道
-筹备中..
-
-## 声明
-
-- 添加本仓库地址可随意转载仓库内所有内容
-- 本仓库永不收取任何费用，现在不会，未来也不会，也不会授权任何人/机构进行收费
-
-<p align="center">
-<img width="300px"  style="max-width:300px; width:300px;" src="https://static.vue-js.com/21494410-8e11-11eb-ab90-d9ae814b240d.png"/>
-</p>
